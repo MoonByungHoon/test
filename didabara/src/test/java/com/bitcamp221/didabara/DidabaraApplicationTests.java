@@ -8,6 +8,7 @@ class DidabaraApplicationTests {
 
   @Test
   void contextLoads() {
+    int a = 0;
   }
 
 }
